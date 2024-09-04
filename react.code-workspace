@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents/ACP Course"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ACP Course"
+	}
+}
